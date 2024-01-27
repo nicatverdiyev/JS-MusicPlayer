@@ -25,6 +25,12 @@ const songs = [
         cover: 'img/roya.jpeg',
         artist: 'Tut Elimden',
     },
+    {
+        path: 'nefes-darıxmışam.mp3',
+        displayName: 'Nefes',
+        cover: 'img/nefes.jpeg',
+        artist: 'Darıxmışam',
+    }
 
 ];
 
